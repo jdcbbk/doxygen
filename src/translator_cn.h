@@ -1840,7 +1840,7 @@ class TranslatorChinese : public Translator
      */
     virtual QCString trInstanceMethods()
     {
-      return "构造函数";
+      return "对象方法";
     }
 
     /*! Used as the header of the member functions of an Objective-C class.
